@@ -1,12 +1,28 @@
-# CareerFit AI
-
 <div align="center">
 
-<img src="assets/logo.png" alt="CareerFit AI Logo" width="120"/>
+# NEXORA HELIX
 
-### AI-Powered Career Intelligence Platform
+### CareerFit AI
 
-Analyze. Optimize. Prepare. Succeed.
+**AI-Powered Career Intelligence Platform**
+
+*Transforming Resumes into Career Opportunities through Artificial Intelligence*
+
+<br>
+
+![GitHub stars](https://img.shields.io/github/stars/USERNAME/CareerFit-AI?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/USERNAME/CareerFit-AI?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/USERNAME/CareerFit-AI?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-Kotlin-6DB33F?style=for-the-badge)
+![Gemini AI](https://img.shields.io/badge/Google-Gemini_AI-4285F4?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge)
+
+---
+
+### Analyze • Optimize • Match • Prepare • Succeed
+
+*Building the Intelligence that Powers Tomorrow.*
 
 </div>
 
@@ -14,207 +30,46 @@ Analyze. Optimize. Prepare. Succeed.
 
 ## Overview
 
-CareerFit AI is an AI-powered mobile application that helps students and professionals identify the best career opportunities based on their skills, resume, and experience.
+CareerFit AI is an AI-powered career intelligence platform developed by **Nexora Helix**. It leverages Large Language Models and intelligent resume analytics to help students and professionals optimize their resumes, improve ATS compatibility, discover suitable career paths, identify skill gaps, and prepare for technical interviews.
 
-The platform combines AI-driven resume analysis, ATS scoring, career role matching, personalized learning recommendations, and technical interview preparation into a single intelligent ecosystem.
+The platform combines AI-driven reasoning, resume parsing, career intelligence, and interview coaching into a single mobile application designed for modern recruitment.
 
 ---
 
-## Features
+## Core Features
 
 - AI Resume Analysis
-- ATS Score Evaluation
-- Career Role Recommendation Engine
+- ATS Compatibility Scoring
+- Smart Career Role Recommendations
 - Skill Gap Detection
 - Personalized Learning Roadmap
-- AI Interview Coach
-- Technical Interview Questions
-- Career Match Accuracy
-- Resume Improvement Suggestions
+- AI Technical Interview Coach
 - Salary Benchmark Insights
+- Resume Improvement Suggestions
+- Career Match Engine
 - Progress Tracking
-- Modern Material Design UI
 
 ---
 
-## Screenshots
+## Technology Stack
 
-| Dashboard | Resume Analysis | ATS Score |
-|------------|----------------|-----------|
-| Dashboard with Career Recommendations | AI Resume Parser | ATS Compatibility Score |
-
----
-
-## Tech Stack
-
-### Mobile Development
-- Kotlin
-- Android SDK
-- XML
-- Material Design 3
-
-### Artificial Intelligence
-- Google Gemini API
-- Prompt Engineering
-- Resume Intelligence
-- Career Recommendation Engine
-
-### Backend
-- Node.js
-- Express.js
-- MongoDB Atlas
-
-### Authentication
-- JWT Authentication
-- Secure REST APIs
+| Layer | Technology |
+|-------|------------|
+| Mobile | Kotlin, Android SDK, XML |
+| AI | Google Gemini API |
+| Backend | Node.js, Express.js |
+| Database | MongoDB Atlas |
+| Authentication | JWT |
+| Architecture | REST API |
 
 ---
 
-## Application Workflow
-
-```
-Resume Upload
-        │
-        ▼
-AI Resume Parsing
-        │
-        ▼
-Skill Extraction
-        │
-        ▼
-ATS Score Analysis
-        │
-        ▼
-Career Recommendation
-        │
-        ▼
-Skill Gap Detection
-        │
-        ▼
-Learning Roadmap
-        │
-        ▼
-AI Interview Preparation
-```
-
----
-
-## Core Modules
-
-### Resume Intelligence
-
-- Resume Parsing
-- ATS Compatibility Analysis
-- Keyword Extraction
-- Experience Evaluation
-
-### Career Recommendation
-
-- AI Career Matching
-- Industry Role Suggestions
-- Salary Insights
-- Hiring Companies
-
-### AI Interview Coach
-
-- Technical Questions
-- HR Questions
-- Personalized Feedback
-- Performance Evaluation
-
-### Learning Recommendation
-
-- Skill Gap Analysis
-- Certifications
-- Online Courses
-- Project Recommendations
-
----
-
-## Project Structure
-
-```
-CareerFit-AI
-│
-├── app/
-├── backend/
-├── assets/
-├── screenshots/
-├── docs/
-├── api/
-├── database/
-└── README.md
-```
-
----
-
-## Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/CareerFit-AI.git
-```
-
-### Open Project
-
-```
-Android Studio
-```
-
-### Configure
-
-- Add Gemini API Key
-- Configure MongoDB
-- Configure Backend URL
-
-### Run
-
-```
-Build → Run
-```
-
----
-
-## Future Enhancements
-
-- AI Mock Video Interviews
-- LinkedIn Profile Analysis
-- Portfolio Evaluation
-- Job Recommendation Engine
-- AI Resume Builder
-- Recruiter Dashboard
-- Internship Recommendation
-- Company Match Prediction
-
----
-
-## Developed By
-
-**Nexora Helix**
-
-Building the Intelligence that Powers Tomorrow.
-
----
-
-## Contact
-
-Email: shairfan2005@gmail.com
-
-Website: https://nexora-helix.onrender.com
-
----
-
-## License
-
-This project is intended for educational, research, and innovation purposes.
-
----
+> **CareerFit AI** isn't just another ATS checker—it's an AI career mentor that helps users understand where they stand today and what they need to reach tomorrow.
 
 <div align="center">
 
-### CareerFit AI
+**Developed by NEXORA HELIX**
 
-**Empowering Careers Through Artificial Intelligence**
+*Engineering Intelligent Software for Tomorrow.*
 
 </div>
